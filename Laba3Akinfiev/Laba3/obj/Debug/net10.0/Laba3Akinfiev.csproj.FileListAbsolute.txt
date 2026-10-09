@@ -1,0 +1,15 @@
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\bin\Debug\net10.0\Laba3Akinfiev.exe
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\bin\Debug\net10.0\Laba3Akinfiev.deps.json
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\bin\Debug\net10.0\Laba3Akinfiev.runtimeconfig.json
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\bin\Debug\net10.0\Laba3Akinfiev.dll
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\bin\Debug\net10.0\Laba3Akinfiev.pdb
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\obj\Debug\net10.0\Laba3Akinfiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\obj\Debug\net10.0\Laba3Akinfiev.AssemblyInfoInputs.cache
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\obj\Debug\net10.0\Laba3Akinfiev.AssemblyInfo.cs
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\obj\Debug\net10.0\Laba3Akinfiev.csproj.CoreCompileInputs.cache
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\obj\Debug\net10.0\Laba3Akinfiev.dll
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\obj\Debug\net10.0\refint\Laba3Akinfiev.dll
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\obj\Debug\net10.0\Laba3Akinfiev.pdb
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\obj\Debug\net10.0\Laba3Akinfiev.genruntimeconfig.cache
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\obj\Debug\net10.0\ref\Laba3Akinfiev.dll
+C:\Users\Evgen\Desktop\учёба\2 курс\Объектно-Ориентрированное Программирование\Laba3Akinfiev\Laba3Akinfiev\obj\Debug\net10.0\Laba3Aki.94BA70DD.Up2Date
